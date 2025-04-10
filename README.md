@@ -110,7 +110,7 @@ npm run dev
 # 如果遇到權限問題
 
 ```bash
-#以下為開放laravel權限問題
+#以下為解決 laravel 權限問題的終端機指令（僅適用於 macOS）
 sudo chown -R daemon storage bootstrap/cache database  
 ```
 
