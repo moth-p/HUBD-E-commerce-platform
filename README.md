@@ -20,11 +20,11 @@
 - 支援消費者瀏覽平台 UI、商品查詢與下單流程
 - 提供會員登入、查看訂單與會員中心紀錄功能
 
-### 商業後台前端（business-side-frontend）
+### 企業後台前端（business-side-frontend）
 - 串接後端 API，提供企業帳號登入使用
 - 管理訂單、商品上下架、會員資料、金流與行銷活動等功能
 
-### 商業後台後端 API（business-side-backend）
+### 企業後台後端 API（business-side-backend）
 - 使用 Laravel 11 撰寫 RESTful API
 - 提供前後台資料處理（商品、訂單、會員、行銷模組）
 - 資料庫使用 MySQL，整合金流與認證機制
